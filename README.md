@@ -18,3 +18,6 @@ You can view the dashboard wireframe here:
 - `space-mission-data.csv` is downloaded from the original GitHub data source.
 - `.hyper` or `.xlsx` files are the cleaned data, prepared using Tableau Data Flow.
 You can use these files as the data source in Tableau.
+
+**Published in Tableau website:**
+https://public.tableau.com/app/profile/roban.shrestha/viz/SpaceMissionsDashboard_17603109665620/SpaceMissionsDashboard
